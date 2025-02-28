@@ -38,6 +38,12 @@ lang: nl
 * Valkuilen en oplossingen bespreken
 * Best practices meegeven
 
+## Case 2: Bulk Analyse
+
+* Analyse van sales-gesprekken
+* TypeScript + OpenAI implementatie
+* [Demonstratie: samenvatten en categoriseren](https://sea-lion-app-3bef2.ondigitalocean.app/summaries/playground/)
+
 ## Case 1: Voorspelbare Content
 
 Gecontroleerde Content Generatie
@@ -46,13 +52,7 @@ Gecontroleerde Content Generatie
 * Multishot templates
 * LangChain pipeline demo
 
-## Case 2: Bulk Analyse
-
-CSV Verwerking
-
-* Analyse van sales-gesprekken
-* TypeScript + OpenAI implementatie
-* Demonstratie: samenvatten en categoriseren
+* [Demonstratie: Multishot](https://sea-lion-app-3bef2.ondigitalocean.app/email1/playground/)
 
 ## Case 3: Kennisbank Chatbot
 
@@ -123,6 +123,7 @@ Gebruiker: "Wat moet ik voorbereiden?"
 ![hyper](./multidimension.gif)
 
 `[0.8, 0.50, 0.75, 0.89, 0.12, ...]`
+
 ## RAG Architectuur verbeterd
 
 ![Met Query](./mermaid-diagram-2025-02-24-205952.png)
