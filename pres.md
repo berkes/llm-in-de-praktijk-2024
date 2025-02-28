@@ -38,13 +38,13 @@ lang: nl
 * Valkuilen en oplossingen bespreken
 * Best practices meegeven
 
-## Case 2: Bulk Analyse
+## Case 1: Bulk Analyse
 
 * Analyse van sales-gesprekken
 * TypeScript + OpenAI implementatie
 * [Demonstratie: samenvatten en categoriseren](https://sea-lion-app-3bef2.ondigitalocean.app/summaries/playground/)
 
-## Case 1: Voorspelbare Content
+## Case 2: Voorspelbare Content
 
 Gecontroleerde Content Generatie
 
